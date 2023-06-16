@@ -1,2 +1,2 @@
 #!/bin/bash
-ls >> "indicate that events have passed a point of no return.root@8a82540624b2:~/holbertonschool-shell/io_redirections_and_filters# ^C" iacta
+tail -1 >> "indicate that events have passed a point of no return.root@8a82540624b2:~/holbertonschool-shell/io_redirections_and_filters# ^C" iacta
